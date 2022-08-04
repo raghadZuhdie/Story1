@@ -3,3 +3,4 @@ Has changed
 
 Hello from fixing
 Hello bug
+Hi from feature
