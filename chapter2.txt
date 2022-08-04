@@ -2,3 +2,4 @@ Hi from chapter2
 Has changed
 
 Hello from fixing
+Hi from feature
